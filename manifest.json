@@ -1,0 +1,6 @@
+{
+  "name": "Blinker",
+  "version": "1.0",
+  "description": "Remind user to blink by changing Chrome background to black.",
+  "manifest_version": 2
+}
